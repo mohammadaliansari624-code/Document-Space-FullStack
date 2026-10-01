@@ -1,0 +1,37 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Python virtual environments and cache
+.venv/
+venv/
+**/__pycache__/
+*.py[cod]
+
+# Frontend dependencies and generated builds
+**/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local databases and logs
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# Ignore locally uploaded media, while keeping original site logo and photos
+backend/media/*
+!backend/media/document-space-logo.jpg
+!backend/media/original-poster-1.jpg
+!backend/media/original-poster-2.jpg
+!backend/media/original-poster-3.jpg
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,160 @@
+{
+  "name": "DOCUMENT SPACE",
+  "tagline": "Digital & Documentation Service Centre",
+  "phone": "7498683086",
+  "whatsapp": "7498683086",
+  "email": "documentspace.in@gmail.com",
+  "address": "Shop No. 02, Jivdani Pada, Jivdani Road, Near Madrasa, Virar East, 401305, Palghar, Maharashtra",
+  "openingTime": "9:30 AM",
+  "closingTime": "7:00 PM",
+  "closedDay": "Sunday",
+  "mapsUrl": "",
+  "reviewsUrl": "",
+  "cscId": "271531710012",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+  "linkedin": "",
+  "hours": "9:30 AM – 7:00 PM · Closed Sunday",
+  "notice": "Government and banking services are subject to applicable rules and authority decisions.",
+  "logo": "/media/document-space-logo.jpg",
+  "services": [
+    {
+      "id": "aadhaar",
+      "category": "Aadhaar",
+      "name": "Aadhaar-related Services",
+      "shortDescription": "Assistance with Aadhaar-related requests."
+    },
+    {
+      "id": "pan",
+      "category": "PAN & Tax",
+      "name": "PAN Services",
+      "shortDescription": "Help with PAN applications and corrections."
+    },
+    {
+      "id": "tan",
+      "category": "PAN & Tax",
+      "name": "TAN Services",
+      "shortDescription": "Assistance with TAN applications."
+    },
+    {
+      "id": "itr",
+      "category": "PAN & Tax",
+      "name": "Income Tax Return (ITR)",
+      "shortDescription": "Assistance with income tax return filing."
+    },
+    {
+      "id": "income-certificate",
+      "category": "Certificates",
+      "name": "Income Certificate",
+      "shortDescription": "Application assistance for income certificates."
+    },
+    {
+      "id": "domicile-certificate",
+      "category": "Certificates",
+      "name": "Domicile Certificate",
+      "shortDescription": "Application assistance for domicile certificates."
+    },
+    {
+      "id": "caste-certificate",
+      "category": "Certificates",
+      "name": "Caste Certificate",
+      "shortDescription": "Application assistance for caste certificates."
+    },
+    {
+      "id": "marriage-certificate",
+      "category": "Certificates",
+      "name": "Marriage Certificate",
+      "shortDescription": "Assistance with marriage certificate applications."
+    },
+    {
+      "id": "gst",
+      "category": "Licences & Registration",
+      "name": "GST Registration / Filing",
+      "shortDescription": "GST registration and return filing assistance."
+    },
+    {
+      "id": "fssai",
+      "category": "Licences & Registration",
+      "name": "FSSAI Licence",
+      "shortDescription": "Assistance with FSSAI licence applications."
+    },
+    {
+      "id": "dsc",
+      "category": "Licences & Registration",
+      "name": "Digital Signature Certificate",
+      "shortDescription": "Help obtaining a Digital Signature Certificate."
+    },
+    {
+      "id": "partnership-deed",
+      "category": "Licences & Registration",
+      "name": "Partnership Deed",
+      "shortDescription": "Assistance with partnership deed documentation."
+    },
+    {
+      "id": "gazette-name-change",
+      "category": "Licences & Registration",
+      "name": "Gazette Name Change",
+      "shortDescription": "Assistance with gazette name change process."
+    },
+    {
+      "id": "bank-of-maharashtra-bc",
+      "category": "Banking",
+      "name": "Bank of Maharashtra BC Services",
+      "shortDescription": "BC/customer service assistance, subject to bank rules and availability."
+    },
+    {
+      "id": "driving-licence",
+      "category": "Travel & Identity",
+      "name": "Driving Licence-related Services",
+      "shortDescription": "Assistance with driving licence-related applications."
+    },
+    {
+      "id": "passport",
+      "category": "Travel & Identity",
+      "name": "Passport-related Services",
+      "shortDescription": "Assistance with passport-related applications."
+    },
+    {
+      "id": "pcc",
+      "category": "Travel & Identity",
+      "name": "Police Clearance Certificate",
+      "shortDescription": "Application assistance for police clearance certificates."
+    },
+    {
+      "id": "irctc",
+      "category": "Travel & Identity",
+      "name": "IRCTC / Railway Ticket Services",
+      "shortDescription": "Assistance with railway ticket booking."
+    },
+    {
+      "id": "ayushman-card",
+      "category": "Government Schemes",
+      "name": "Ayushman Card",
+      "shortDescription": "Assistance with Ayushman card applications."
+    },
+    {
+      "id": "csc-services",
+      "category": "CSC Services",
+      "name": "Other CSC Services",
+      "shortDescription": "Other government and digital services available via CSC."
+    }
+  ],
+  "posters": [
+    {
+      "id": "g1",
+      "title": "Bank of Maharashtra Customer Service Point & CSC",
+      "image": "/media/original-poster-1.jpg"
+    },
+    {
+      "id": "g2",
+      "title": "Customer service desk",
+      "image": "/media/original-poster-2.jpg"
+    },
+    {
+      "id": "g3",
+      "title": "Document Space signage",
+      "image": "/media/original-poster-3.jpg"
+    }
+  ]
+}
